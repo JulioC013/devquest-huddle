@@ -1,6 +1,6 @@
 @media (max-width:750px) {
     body{
-        background-image: url(./src/images/bg-mobile.svg);
+        background-image: url(/src/images/bg-mobile.svg);
         max-width:750px;
         margin: 0px;
     }   
