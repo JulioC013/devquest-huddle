@@ -4,7 +4,7 @@ body{
     background-repeat: no-repeat;
     height: 100vh;
     max-width: 1440px;
-    margin: 25px;
+    margin: 0 auto;
 
 }
 
@@ -48,7 +48,10 @@ body{
     font-size: 18px;
     padding: 15px 65px;
     color: hsl(257,40%,49%);
-    box-shadow: 7px 10px 16px 0 rgba(0,0,0,0.2);
+    box-shadow: 7px 10px 8px 0 rgba(0,0,0,0.2);
+    text-decoration: none;
+    border: none;
+    
 }
 
 .main .info .button:hover{
